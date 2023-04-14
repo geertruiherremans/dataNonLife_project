@@ -20,26 +20,31 @@ perPostal = perPostal.rename(columns={'CODPOSS':'POSTCODE'})
 shp = pd.merge(shp,perPostal,how='left',on='POSTCODE')
 shp.duree = shp.duree.fillna(0)
 
-shp.plot(column='duree', legend=True,cmap='jet')
+# RESPONSE VARIABLES
+fig, axes = plt.subplots(nrows=1, ncols=3)
+plt.figure(1)
+data.duree.plot(kind='hist',xlabel='Exposure',ylabel='Relative exposure',ax=axes[0])
+data.nbrtotc.plot(kind='hist',xlabel='Number of claims',ylabel='Relative exposure',ax=axes[1])
+data.chargtot.plot(kind='density',logx=True,xlabel='Total claim amount',ylabel='Relative exposure',ax=axes[2])
+fig.suptitle('Response variables')
 
-fig, axes = plt.subplots(nrows=2, ncols=3)
+
+fig, axes = plt.subplots(nrows=2, ncols=5)
 plt.figure(2)
 # info policy holders
-data.groupby(['AGEPH'])['duree'].sum().plot(kind='line',xlabel='Age',ylabel='Total exposure',ax=axes[0,0])
-data.groupby(['nbrtotc'])['duree'].sum().plot(kind='bar',xlabel='Number of claims',ylabel='Total exposure',ax=axes[0,1])
+data.groupby(['coverp'])['duree'].sum().plot(kind='bar',xlabel='Type of coverage',ylabel='Total exposure',ax=axes[0,0])
+data.groupby(['fuelc'])['duree'].sum().plot(kind='bar',xlabel='Type of fuel',ylabel='Total exposure',ax=axes[0,1])
 data.groupby(['sexp'])['duree'].sum().plot(kind='bar',xlabel='Sex',ylabel='Total exposure',ax=axes[0,2])
-data.groupby(['split'])['duree'].sum().plot(kind='bar',xlabel='Split of premium',ylabel='Total exposure',ax=axes[1,0])
-data.groupby(['coverp'])['duree'].sum().plot(kind='bar',xlabel='Type of coverage',ylabel='Total exposure',ax=axes[1,1])
-data.groupby(['chargtot'])['duree'].sum().plot(kind='line',xlabel='Charge for total claims',ylabel='Total exposure',ax=axes[1,2])
+data.groupby(['usec'])['duree'].sum().plot(kind='bar',xlabel='Type of use',ylabel='Total exposure',ax=axes[0,3])
+data.groupby(['fleetc'])['duree'].sum().plot(kind='bar',xlabel='Fleet or not',ylabel='Total exposure',ax=axes[0,4])
+data.groupby(['AGEPH'])['duree'].sum().plot(kind='line',xlabel='Age ph',ylabel='Total exposure',ax=axes[1,0])
+data.groupby(['powerc'])['duree'].sum().plot(kind='bar',xlabel='Power of car',ylabel='Total exposure',ax=axes[1,1])
+data.groupby(['agecar'])['duree'].sum().plot(kind='bar',xlabel='Age of car',ylabel='Total exposure',ax=axes[1,2])
+data.groupby(['sportc'])['duree'].sum().plot(kind='bar',xlabel='Sports car or not',ylabel='Total exposure',ax=axes[1,3])
+data.groupby(['split'])['duree'].sum().plot(kind='bar',xlabel='Split of premium',ylabel='Total exposure',ax=axes[1,4])
+fig.suptitle('Risk factors')
 
-fig, axes = plt.subplots(nrows=2, ncols=3)
-plt.figure(3)
-# info cars
-data.groupby(['agecar'])['duree'].sum().plot(kind='bar',xlabel='Age of car',ylabel='Total exposure',ax=axes[0,0])
-data.groupby(['usec'])['duree'].sum().plot(kind='bar',xlabel='Type of use',ylabel='Total exposure',ax=axes[0,1])
-data.groupby(['fuelc'])['duree'].sum().plot(kind='bar',xlabel='Type of fuel',ylabel='Total exposure',ax=axes[0,2])
-data.groupby(['fleetc'])['duree'].sum().plot(kind='bar',xlabel='Fleet or not',ylabel='Total exposure',ax=axes[1,0])
-data.groupby(['sportc'])['duree'].sum().plot(kind='bar',xlabel='Sports car or not',ylabel='Total exposure',ax=axes[1,1])
-data.groupby(['powerc'])['duree'].sum().plot(kind='bar',xlabel='Power of car',ylabel='Total exposure',ax=axes[1,2])
+
+shp.plot(column='duree',cmap='jet',legend=True)
 
 plt.show()
