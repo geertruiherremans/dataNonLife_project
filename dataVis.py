@@ -1,3 +1,10 @@
+"""
+Visualisation of input data
+- visualisation of exposure per area using shapefile
+- visualisation of exposure per parameter concerning info on policyholder
+- visualisation of exposure per parameter concerning info on car
+"""
+
 import pandas as pd
 import numpy as np
 import math
@@ -5,7 +12,6 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 
 data = pd.read_csv('data.csv')
-data['chargper'] = np.where(data['nbrtotc']>0,data.chargtot / data.nbrtotc,0)
 shp = gpd.read_file(r'./shape_file/npc96_region_Project1.shp')
 shp = shp.sort_values(by='POSTCODE')
 
@@ -15,8 +21,6 @@ shp = pd.merge(shp,perPostal,how='left',on='POSTCODE')
 shp.duree = shp.duree.fillna(0)
 
 shp.plot(column='duree', legend=True,cmap='jet')
-
-
 
 fig, axes = plt.subplots(nrows=2, ncols=3)
 plt.figure(2)

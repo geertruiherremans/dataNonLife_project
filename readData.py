@@ -1,17 +1,16 @@
-
+"""
+Preprocessing of data
+Converting input data 'Assignment.csv' to 'data.csv' (used in main)
+- Postal code converted to latitude and longitude
+- Additional column: chargper = claim amount per claim
+"""
 import pandas as pd
 import numpy as np
 
 data = pd.read_csv('Assignment.csv')
 postalData = pd.read_excel('inspost.xls')
-nData = data.shape[0]
-
-for iDat in range(nData):
-    ind = postalData[postalData['CODPOSS']==data.loc[iDat,'CODPOSS']].index.values
-    data.loc[iDat,'LAT'] = postalData.loc[ind,'LAT'].values
-    data.loc[iDat,'LONG'] = postalData.loc[ind,'LONG'].values
+data = pd.merge(data,postalData)
+data['chargper'] = np.where(data['nbrtotc']>0,data.chargtot / data.nbrtotc,0)
 
 data.to_csv(r'./data.csv', encoding='utf-8',index=False)
 
-print(data['LAT'].isin([0]).any())
-print(data['LONG'].isin([0]).any())
