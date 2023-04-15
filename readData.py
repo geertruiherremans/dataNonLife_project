@@ -9,10 +9,10 @@ import numpy as np
 
 
 def split_to_numeric(x):
-    if x == 'Once': return 1
-    if x == 'Twice': return 2
-    if x == 'Thrice': return 3
-    return 0
+    if x == 'Once': return 0
+    if x == 'Twice': return 1
+    if x == 'Thrice': return 2
+    return 3
 
 
 def agec_to_numeric(x):
