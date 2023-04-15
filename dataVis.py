@@ -65,6 +65,6 @@ data.groupby(['split'])['nbrtotp'].mean().plot(kind='bar',xlabel='Split of premi
 fig.suptitle('Risk factors')
 
 shp.plot(column='duree',cmap='jet',legend=True)
-#shp.plot(column='mean_nbrtotp',cmap='jet',legend=True)
+shp.plot(column='mean_nbrtotp',cmap='jet',legend=True)
 
 plt.show()
