@@ -3,6 +3,9 @@ Preprocessing of data
 Converting input data 'Assignment.csv' to 'data.csv' (used in main)
 - Postal code converted to latitude and longitude
 - Additional column: chargper = claim amount per claim
+Converting input data to 'dataFact.csv' (used in main)
+- All categorical data is converted to factorial data
+- Used as input for GAM
 """
 import pandas as pd
 import numpy as np
