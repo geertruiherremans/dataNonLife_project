@@ -1,0 +1,524 @@
+,predictor,AIC
+0,fuelc,38900.016215017204
+1,fuelc,38889.72039332567
+2,fuelc,38898.384887446926
+3,fuelc,38887.18539616065
+4,['ageph' 'lat' 'long' 'split'],38785.52641461509
+5,['ageph' 'lat' 'long' 'fleetc'],38899.31479027743
+6,['ageph' 'lat' 'long' 'sportc'],38901.70508853867
+7,['ageph' 'lat' 'long' 'coverp'],38879.24604808849
+8,['ageph' 'lat' 'long' 'powerc'],38900.70154311774
+9,['ageph' 'lat' 'long' 'agecar' 'sexp'],38888.42535134551
+10,['ageph' 'lat' 'long' 'agecar' 'fuelc'],38874.940615126536
+11,['ageph' 'lat' 'long' 'agecar' 'split'],38777.07553833444
+12,['ageph' 'lat' 'long' 'agecar' 'fleetc'],38889.28693918513
+13,['ageph' 'lat' 'long' 'agecar' 'sportc'],38891.408326207915
+14,['ageph' 'lat' 'long' 'agecar' 'coverp'],38872.84936430109
+15,['ageph' 'lat' 'long' 'agecar' 'powerc'],38889.20655894254
+16,['ageph' 'lat' 'long' 'sexp' 'fuelc'],38883.44782524696
+17,['ageph' 'lat' 'long' 'sexp' 'split'],38784.10670077894
+18,['ageph' 'lat' 'long' 'sexp' 'fleetc'],38897.54829622664
+19,['ageph' 'lat' 'long' 'sexp' 'sportc'],38900.14359491292
+20,['ageph' 'lat' 'long' 'sexp' 'coverp'],38877.84255989179
+21,['ageph' 'lat' 'long' 'sexp' 'powerc'],38898.01345622914
+22,['ageph' 'lat' 'long' 'fuelc' 'split'],38772.66735314381
+23,['ageph' 'lat' 'long' 'fuelc' 'fleetc'],38886.42640791887
+24,['ageph' 'lat' 'long' 'fuelc' 'sportc'],38889.105683788715
+25,['ageph' 'lat' 'long' 'fuelc' 'coverp'],38863.45067615117
+26,['ageph' 'lat' 'long' 'fuelc' 'powerc'],38885.907006031586
+27,['ageph' 'lat' 'long' 'split' 'fleetc'],38786.42278154829
+28,['ageph' 'lat' 'long' 'split' 'sportc'],38787.29920620844
+29,['ageph' 'lat' 'long' 'split' 'coverp'],38761.41720920476
+30,['ageph' 'lat' 'long' 'split' 'powerc'],38786.1679603637
+31,['ageph' 'lat' 'long' 'fleetc' 'sportc'],38901.02226035898
+32,['ageph' 'lat' 'long' 'fleetc' 'coverp'],38879.62300726343
+33,['ageph' 'lat' 'long' 'fleetc' 'powerc'],38899.842852610636
+34,['ageph' 'lat' 'long' 'sportc' 'coverp'],38880.922161435454
+35,['ageph' 'lat' 'long' 'sportc' 'powerc'],38901.619115209076
+36,['ageph' 'lat' 'long' 'coverp' 'powerc'],38877.428088007495
+37,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc'],38871.57761855672
+38,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split'],38775.96486001133
+39,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc'],38887.861380330265
+40,['ageph' 'lat' 'long' 'agecar' 'sexp' 'sportc'],38890.18079936585
+41,['ageph' 'lat' 'long' 'agecar' 'sexp' 'coverp'],38871.451390310096
+42,['ageph' 'lat' 'long' 'agecar' 'sexp' 'powerc'],38886.770008984844
+43,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split'],38762.475443758005
+44,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc'],38874.50169154586
+45,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'sportc'],38876.86661474376
+46,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'coverp'],38857.02740515213
+47,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'powerc'],38871.48201075269
+48,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc'],38778.12721672706
+49,['ageph' 'lat' 'long' 'agecar' 'split' 'sportc'],38778.83843678059
+50,['ageph' 'lat' 'long' 'agecar' 'split' 'coverp'],38755.23859155783
+51,['ageph' 'lat' 'long' 'agecar' 'split' 'powerc'],38776.78333239878
+52,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'sportc'],38890.99286428381
+53,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'coverp'],38873.28774303519
+54,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'powerc'],38888.634418190544
+55,['ageph' 'lat' 'long' 'agecar' 'sportc' 'coverp'],38874.54958598306
+56,['ageph' 'lat' 'long' 'agecar' 'sportc' 'powerc'],38890.00769601276
+57,['ageph' 'lat' 'long' 'agecar' 'coverp' 'powerc'],38871.04251707965
+58,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split'],38769.17686350417
+59,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc'],38882.51467440732
+60,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'sportc'],38885.41609627909
+61,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'coverp'],38859.80440211309
+62,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'powerc'],38880.297567210124
+63,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc'],38784.91946756853
+64,['ageph' 'lat' 'long' 'sexp' 'split' 'sportc'],38785.934471322296
+65,['ageph' 'lat' 'long' 'sexp' 'split' 'coverp'],38760.31235387317
+66,['ageph' 'lat' 'long' 'sexp' 'split' 'powerc'],38783.72708048566
+67,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'sportc'],38899.325055867426
+68,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'coverp'],38878.115163358
+69,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'powerc'],38896.96678843275
+70,['ageph' 'lat' 'long' 'sexp' 'sportc' 'coverp'],38879.587927247856
+71,['ageph' 'lat' 'long' 'sexp' 'sportc' 'powerc'],38898.98788321775
+72,['ageph' 'lat' 'long' 'sexp' 'coverp' 'powerc'],38874.64214766953
+73,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc'],38773.510849260536
+74,['ageph' 'lat' 'long' 'fuelc' 'split' 'sportc'],38774.625525854346
+75,['ageph' 'lat' 'long' 'fuelc' 'split' 'coverp'],38745.083407148435
+76,['ageph' 'lat' 'long' 'fuelc' 'split' 'powerc'],38771.294612426515
+77,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'sportc'],38888.35622658636
+78,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'coverp'],38863.8572835523
+79,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'powerc'],38884.94420871198
+80,['ageph' 'lat' 'long' 'fuelc' 'sportc' 'coverp'],38865.3775080805
+81,['ageph' 'lat' 'long' 'fuelc' 'sportc' 'powerc'],38887.16466611509
+82,['ageph' 'lat' 'long' 'fuelc' 'coverp' 'powerc'],38858.43956136573
+83,['ageph' 'lat' 'long' 'split' 'fleetc' 'sportc'],38788.20338868685
+84,['ageph' 'lat' 'long' 'split' 'fleetc' 'coverp'],38763.0576620777
+85,['ageph' 'lat' 'long' 'split' 'fleetc' 'powerc'],38786.95415768526
+86,['ageph' 'lat' 'long' 'split' 'sportc' 'coverp'],38763.18748187469
+87,['ageph' 'lat' 'long' 'split' 'sportc' 'powerc'],38787.20144603757
+88,['ageph' 'lat' 'long' 'split' 'coverp' 'powerc'],38759.31368225692
+89,['ageph' 'lat' 'long' 'fleetc' 'sportc' 'coverp'],38881.31512789318
+90,['ageph' 'lat' 'long' 'fleetc' 'sportc' 'powerc'],38900.783346930024
+91,['ageph' 'lat' 'long' 'fleetc' 'coverp' 'powerc'],38877.71212869362
+92,['ageph' 'lat' 'long' 'sportc' 'coverp' 'powerc'],38878.11006930234
+93,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split'],38759.35289951231
+94,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc'],38870.97369689326
+95,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'sportc'],38873.54815653059
+96,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'coverp'],38853.46032903485
+97,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'powerc'],38865.98170728071
+98,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc'],38776.93609263409
+99,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'sportc'],38777.78212441035
+100,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'coverp'],38754.04619686968
+101,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'powerc'],38774.599738557874
+102,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'sportc'],38889.63447738648
+103,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'coverp'],38871.78885453984
+104,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'powerc'],38886.02064772858
+105,['ageph' 'lat' 'long' 'agecar' 'sexp' 'sportc' 'coverp'],38873.218499409675
+106,['ageph' 'lat' 'long' 'agecar' 'sexp' 'sportc' 'powerc'],38887.63169690443
+107,['ageph' 'lat' 'long' 'agecar' 'sexp' 'coverp' 'powerc'],38868.30955621206
+108,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc'],38763.513425640165
+109,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'sportc'],38764.433839815814
+110,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'coverp'],38739.31488060681
+111,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'powerc'],38759.291213855395
+112,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'sportc'],38876.43624691615
+113,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'coverp'],38857.49282442362
+114,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'powerc'],38870.86460435307
+115,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'sportc' 'coverp'],38858.96350358247
+116,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'sportc' 'powerc'],38872.62695595368
+117,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'coverp' 'powerc'],38851.72600036603
+118,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'sportc'],38779.89781050063
+119,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'coverp'],38756.89972289196
+120,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'powerc'],38777.74191616881
+121,['ageph' 'lat' 'long' 'agecar' 'split' 'sportc' 'coverp'],38757.020503911794
+122,['ageph' 'lat' 'long' 'agecar' 'split' 'sportc' 'powerc'],38777.71100566166
+123,['ageph' 'lat' 'long' 'agecar' 'split' 'coverp' 'powerc'],38753.50372193522
+124,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'sportc' 'coverp'],38875.00236530378
+125,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'sportc' 'powerc'],38889.461621647
+126,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'coverp' 'powerc'],38871.38956490334
+127,['ageph' 'lat' 'long' 'agecar' 'sportc' 'coverp' 'powerc'],38871.75999291457
+128,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc'],38769.90891020231
+129,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'sportc'],38771.16546912603
+130,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'coverp'],38741.77977082175
+131,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'powerc'],38765.9608978036
+132,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'sportc'],38884.489560896254
+133,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'coverp'],38860.08136854878
+134,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'powerc'],38879.083666558305
+135,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'sportc' 'coverp'],38861.77633409415
+136,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'sportc' 'powerc'],38881.64281749291
+137,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'coverp' 'powerc'],38852.29316349958
+138,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'sportc'],38786.75498044099
+139,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'coverp'],38761.90392508292
+140,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'powerc'],38784.39165370138
+141,['ageph' 'lat' 'long' 'sexp' 'split' 'sportc' 'coverp'],38762.13542919993
+142,['ageph' 'lat' 'long' 'sexp' 'split' 'sportc' 'powerc'],38784.804050349754
+143,['ageph' 'lat' 'long' 'sexp' 'split' 'coverp' 'powerc'],38756.85737029757
+144,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'sportc' 'coverp'],38879.87623161588
+145,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'sportc' 'powerc'],38897.96575155546
+146,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'coverp' 'powerc'],38874.78468004698
+147,['ageph' 'lat' 'long' 'sexp' 'sportc' 'coverp' 'powerc'],38875.386367719984
+148,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'sportc'],38775.47255532596
+149,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'coverp'],38746.73433429159
+150,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'powerc'],38771.99051116487
+151,['ageph' 'lat' 'long' 'fuelc' 'split' 'sportc' 'coverp'],38747.05133177562
+152,['ageph' 'lat' 'long' 'fuelc' 'split' 'sportc' 'powerc'],38772.64001958828
+153,['ageph' 'lat' 'long' 'fuelc' 'split' 'coverp' 'powerc'],38739.60072872648
+154,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'sportc' 'coverp'],38865.79135123551
+155,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'sportc' 'powerc'],38886.22211503298
+156,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'coverp' 'powerc'],38858.73646896372
+157,['ageph' 'lat' 'long' 'fuelc' 'sportc' 'coverp' 'powerc'],38859.5110151914
+158,['ageph' 'lat' 'long' 'split' 'fleetc' 'sportc' 'coverp'],38764.83286458847
+159,['ageph' 'lat' 'long' 'split' 'fleetc' 'sportc' 'powerc'],38787.99572210603
+160,['ageph' 'lat' 'long' 'split' 'fleetc' 'coverp' 'powerc'],38760.90302936307
+161,['ageph' 'lat' 'long' 'split' 'sportc' 'coverp' 'powerc'],38760.123123672885
+162,['ageph' 'lat' 'long' 'fleetc' 'sportc' 'coverp' 'powerc'],38878.42172084715
+163,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc'],38760.28693602509
+164,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'sportc'],38761.34082990663
+165,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'coverp'],38736.001667769706
+166,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'powerc'],38754.12205237173
+167,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc'],38872.9502117478
+168,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'coverp'],38853.80098555807
+169,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'powerc'],38865.130675987406
+170,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'sportc' 'coverp'],38855.437574441494
+171,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'sportc' 'powerc'],38867.21872029271
+172,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'coverp' 'powerc'],38845.68955459157
+173,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'sportc'],38778.761105544036
+174,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'coverp'],38755.66001734038
+175,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'powerc'],38775.44534778071
+176,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'sportc' 'coverp'],38755.88055376847
+177,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'sportc' 'powerc'],38775.57448565062
+178,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'coverp' 'powerc'],38751.031783398765
+179,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'sportc' 'coverp'],38873.570053548545
+180,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'sportc' 'powerc'],38886.91014342498
+181,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'coverp' 'powerc'],38868.52032465399
+182,['ageph' 'lat' 'long' 'agecar' 'sexp' 'sportc' 'coverp' 'powerc'],38869.09029987276
+183,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc'],38765.47503843062
+184,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'coverp'],38740.985192089945
+185,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'powerc'],38760.205791423265
+186,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'sportc' 'coverp'],38741.284808252545
+187,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'sportc' 'powerc'],38760.53551976083
+188,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'coverp' 'powerc'],38734.05358342084
+189,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'sportc' 'coverp'],38859.4352445252
+190,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'sportc' 'powerc'],38872.032183951225
+191,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'coverp' 'powerc'],38852.080877515444
+192,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'sportc' 'coverp' 'powerc'],38852.8066785788
+193,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'sportc' 'coverp'],38758.686092627504
+194,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'sportc' 'powerc'],38778.67976164356
+195,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'coverp' 'powerc'],38755.11655835637
+196,['ageph' 'lat' 'long' 'agecar' 'split' 'sportc' 'coverp' 'powerc'],38754.35393312232
+197,['ageph' 'lat' 'long' 'agecar' 'fleetc' 'sportc' 'coverp' 'powerc'],38872.13217018929
+198,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'],38771.89960359921
+199,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp'],38743.36878654312
+200,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'powerc'],38766.487311813486
+201,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'sportc' 'coverp'],38743.772743222624
+202,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'sportc' 'powerc'],38767.377511430954
+203,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'coverp' 'powerc'],38733.80476308723
+204,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp'],38862.05827325945
+205,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'sportc' 'powerc'],38880.45046175136
+206,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'coverp' 'powerc'],38852.40932554654
+207,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'sportc' 'coverp' 'powerc'],38853.46274323775
+208,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'sportc' 'coverp'],38763.73204788212
+209,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'sportc' 'powerc'],38785.477751758786
+210,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'coverp' 'powerc'],38758.376130026554
+211,['ageph' 'lat' 'long' 'sexp' 'split' 'sportc' 'coverp' 'powerc'],38757.714604294546
+212,['ageph' 'lat' 'long' 'sexp' 'fleetc' 'sportc' 'coverp' 'powerc'],38875.558185449314
+213,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38748.70401367683
+214,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38773.3435777181
+215,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38741.19050427591
+216,['ageph' 'lat' 'long' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38740.77712396549
+217,['ageph' 'lat' 'long' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38859.83103150978
+218,['ageph' 'lat' 'long' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38761.72149331732
+219,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'],38762.27685645155
+220,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp'],38737.6127007378
+221,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'powerc'],38754.88290165932
+222,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'sportc' 'coverp'],38737.995532610206
+223,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'sportc' 'powerc'],38755.441525326205
+224,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'coverp' 'powerc'],38728.335221698915
+225,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp'],38855.78241931147
+226,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc' 'powerc'],38866.39174961812
+227,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'coverp' 'powerc'],38845.8698130244
+228,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'sportc' 'coverp' 'powerc'],38846.86715479204
+229,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'sportc' 'coverp'],38757.49893141515
+230,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'sportc' 'powerc'],38776.4314333337
+231,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'coverp' 'powerc'],38752.57708236242
+232,['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'sportc' 'coverp' 'powerc'],38751.93128264749
+233,['ageph' 'lat' 'long' 'agecar' 'sexp' 'fleetc' 'sportc' 'coverp' 'powerc'],38869.32778515791
+234,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38742.956698860806
+235,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38761.459228812186
+236,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38735.66440147045
+237,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38735.24254569184
+238,['ageph' 'lat' 'long' 'agecar' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38853.18282759684
+239,['ageph' 'lat' 'long' 'agecar' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38755.97475233695
+240,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38745.3627240949
+241,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38767.912666193704
+242,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38735.30158854277
+243,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38735.061133273266
+244,['ageph' 'lat' 'long' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38853.60328599448
+245,['ageph' 'lat' 'long' 'sexp' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38759.24349604123
+246,['ageph' 'lat' 'long' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38742.3744876186
+247,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'
+ 'coverp']",38739.60740505597
+248,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'
+ 'powerc']",38756.21267274785
+249,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp'
+ 'powerc']",38729.85712452609
+250,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'sportc' 'coverp'
+ 'powerc']",38729.603454003525
+251,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp'
+ 'powerc']",38847.06993296599
+252,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'split' 'fleetc' 'sportc' 'coverp'
+ 'powerc']",38753.48559404036
+253,"['ageph' 'lat' 'long' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'
+ 'powerc']",38736.86018245273
+254,"['ageph' 'lat' 'long' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'
+ 'powerc']",38736.566614248935
+255,"['ageph' 'lat' 'long' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'
+ 'coverp' 'powerc']",38731.13318055729
+256,"['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'
+ 'powerc']",39011.500109731045
+257,['ageph' 'agecar'],39002.08175171789
+258,['ageph' 'sexp'],39008.938335404084
+259,['ageph' 'fuelc'],39002.90144485297
+260,['ageph' 'split'],38877.48290133859
+261,['ageph' 'fleetc'],39011.73859666111
+262,['ageph' 'sportc'],39013.01937225084
+263,['ageph' 'coverp'],39002.872106645555
+264,['ageph' 'powerc'],39011.35040294886
+265,['ageph' 'agecar' 'sexp'],38999.83284479429
+266,['ageph' 'agecar' 'fuelc'],38992.04390741133
+267,['ageph' 'agecar' 'split'],38869.158726627255
+268,['ageph' 'agecar' 'fleetc'],39002.518181986496
+269,['ageph' 'agecar' 'sportc'],39003.59934379908
+270,['ageph' 'agecar' 'coverp'],38996.20222446794
+271,['ageph' 'agecar' 'powerc'],39000.71192840356
+272,['ageph' 'sexp' 'fuelc'],38998.34295643803
+273,['ageph' 'sexp' 'split'],38875.31777481831
+274,['ageph' 'sexp' 'fleetc'],39009.052612912834
+275,['ageph' 'sexp' 'sportc'],39010.55632900102
+276,['ageph' 'sexp' 'coverp'],39000.4967563309
+277,['ageph' 'sexp' 'powerc'],39007.50198183764
+278,['ageph' 'fuelc' 'split'],38869.05492362709
+279,['ageph' 'fuelc' 'fleetc'],39003.10979476932
+280,['ageph' 'fuelc' 'sportc'],39004.68906270564
+281,['ageph' 'fuelc' 'coverp'],38992.43043280821
+282,['ageph' 'fuelc' 'powerc'],39000.911275462706
+283,['ageph' 'split' 'fleetc'],38879.06314040183
+284,['ageph' 'split' 'sportc'],38879.21312111045
+285,['ageph' 'split' 'coverp'],38859.794854839274
+286,['ageph' 'split' 'powerc'],38877.294955296784
+287,['ageph' 'fleetc' 'sportc'],39013.275193624766
+288,['ageph' 'fleetc' 'coverp'],39003.72543033501
+289,['ageph' 'fleetc' 'powerc'],39011.44447736707
+290,['ageph' 'sportc' 'coverp'],39004.34180250965
+291,['ageph' 'sportc' 'powerc'],39011.85151911169
+292,['ageph' 'coverp' 'powerc'],39000.85575992078
+293,['ageph' 'agecar' 'sexp' 'fuelc'],38987.8109611352
+294,['ageph' 'agecar' 'sexp' 'split'],38867.33075086404
+295,['ageph' 'agecar' 'sexp' 'fleetc'],39000.14872536173
+296,['ageph' 'agecar' 'sexp' 'sportc'],39001.44737072303
+297,['ageph' 'agecar' 'sexp' 'coverp'],38993.868879650494
+298,['ageph' 'agecar' 'sexp' 'powerc'],38997.10078427742
+299,['ageph' 'agecar' 'fuelc' 'split'],38859.24198197504
+300,['ageph' 'agecar' 'fuelc' 'fleetc'],38992.48563415496
+301,['ageph' 'agecar' 'fuelc' 'sportc'],38993.83909931277
+302,['ageph' 'agecar' 'fuelc' 'coverp'],38985.51945688131
+303,['ageph' 'agecar' 'fuelc' 'powerc'],38987.97410965837
+304,['ageph' 'agecar' 'split' 'fleetc'],38870.836095784325
+305,['ageph' 'agecar' 'split' 'sportc'],38870.87430584781
+306,['ageph' 'agecar' 'split' 'coverp'],38853.98575428724
+307,['ageph' 'agecar' 'split' 'powerc'],38867.88524843513
+308,['ageph' 'agecar' 'fleetc' 'sportc'],39004.052512999435
+309,['ageph' 'agecar' 'fleetc' 'coverp'],38997.115002389684
+310,['ageph' 'agecar' 'fleetc' 'powerc'],39001.02502191126
+311,['ageph' 'agecar' 'sportc' 'coverp'],38997.70010202839
+312,['ageph' 'agecar' 'sportc' 'powerc'],39001.076072336444
+313,['ageph' 'agecar' 'coverp' 'powerc'],38993.94929959951
+314,['ageph' 'sexp' 'fuelc' 'split'],38864.96677852395
+315,['ageph' 'sexp' 'fuelc' 'fleetc'],38998.39896745683
+316,['ageph' 'sexp' 'fuelc' 'sportc'],39000.221981581824
+317,['ageph' 'sexp' 'fuelc' 'coverp'],38987.94161686412
+318,['ageph' 'sexp' 'fuelc' 'powerc'],38994.263316320794
+319,['ageph' 'sexp' 'split' 'fleetc'],38876.8394076373
+320,['ageph' 'sexp' 'split' 'sportc'],38877.11488262779
+321,['ageph' 'sexp' 'split' 'coverp'],38857.94407554255
+322,['ageph' 'sexp' 'split' 'powerc'],38873.90403298071
+323,['ageph' 'sexp' 'fleetc' 'sportc'],39010.68796951299
+324,['ageph' 'sexp' 'fleetc' 'coverp'],39001.248770406775
+325,['ageph' 'sexp' 'fleetc' 'powerc'],39007.42321132331
+326,['ageph' 'sexp' 'sportc' 'coverp'],39002.068753949075
+327,['ageph' 'sexp' 'sportc' 'powerc'],39008.084148562804
+328,['ageph' 'sexp' 'coverp' 'powerc'],38996.94677661491
+329,['ageph' 'fuelc' 'split' 'fleetc'],38870.61402234783
+330,['ageph' 'fuelc' 'split' 'sportc'],38870.96961502584
+331,['ageph' 'fuelc' 'split' 'coverp'],38848.708011292656
+332,['ageph' 'fuelc' 'split' 'powerc'],38867.00446094173
+333,['ageph' 'fuelc' 'fleetc' 'sportc'],39004.90915382198
+334,['ageph' 'fuelc' 'fleetc' 'coverp'],38993.30950079337
+335,['ageph' 'fuelc' 'fleetc' 'powerc'],39000.94210395837
+336,['ageph' 'fuelc' 'sportc' 'coverp'],38994.20029002033
+337,['ageph' 'fuelc' 'sportc' 'powerc'],39001.764652969505
+338,['ageph' 'fuelc' 'coverp' 'powerc'],38987.70016726328
+339,['ageph' 'split' 'fleetc' 'sportc'],38880.79810407577
+340,['ageph' 'split' 'fleetc' 'coverp'],38861.73159494607
+341,['ageph' 'split' 'fleetc' 'powerc'],38878.79746990541
+342,['ageph' 'split' 'sportc' 'coverp'],38861.487353087985
+343,['ageph' 'split' 'sportc' 'powerc'],38878.118929388445
+344,['ageph' 'split' 'coverp' 'powerc'],38857.04724052415
+345,['ageph' 'fleetc' 'sportc' 'coverp'],39005.21162598212
+346,['ageph' 'fleetc' 'sportc' 'powerc'],39011.964666485066
+347,['ageph' 'fleetc' 'coverp' 'powerc'],39001.624839025215
+348,['ageph' 'sportc' 'coverp' 'powerc'],39001.08735829425
+349,['ageph' 'agecar' 'sexp' 'fuelc' 'split'],38855.51942224941
+350,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc'],38988.10830475648
+351,['ageph' 'agecar' 'sexp' 'fuelc' 'sportc'],38989.69368196863
+352,['ageph' 'agecar' 'sexp' 'fuelc' 'coverp'],38981.126907861864
+353,['ageph' 'agecar' 'sexp' 'fuelc' 'powerc'],38981.4064118088
+354,['ageph' 'agecar' 'sexp' 'split' 'fleetc'],38868.954366875674
+355,['ageph' 'agecar' 'sexp' 'split' 'sportc'],38869.11341269612
+356,['ageph' 'agecar' 'sexp' 'split' 'coverp'],38852.06786429472
+357,['ageph' 'agecar' 'sexp' 'split' 'powerc'],38864.776638772564
+358,['ageph' 'agecar' 'sexp' 'fleetc' 'sportc'],39001.78017714937
+359,['ageph' 'agecar' 'sexp' 'fleetc' 'coverp'],38994.68434701314
+360,['ageph' 'agecar' 'sexp' 'fleetc' 'powerc'],38997.25091451319
+361,['ageph' 'agecar' 'sexp' 'sportc' 'coverp'],38995.46644953062
+362,['ageph' 'agecar' 'sexp' 'sportc' 'powerc'],38997.55174405755
+363,['ageph' 'agecar' 'sexp' 'coverp' 'powerc'],38990.11217178413
+364,['ageph' 'agecar' 'fuelc' 'split' 'fleetc'],38860.918239012964
+365,['ageph' 'agecar' 'fuelc' 'split' 'sportc'],38861.15508729479
+366,['ageph' 'agecar' 'fuelc' 'split' 'coverp'],38843.06796627999
+367,['ageph' 'agecar' 'fuelc' 'split' 'powerc'],38855.27983116737
+368,['ageph' 'agecar' 'fuelc' 'fleetc' 'sportc'],38994.29151056666
+369,['ageph' 'agecar' 'fuelc' 'fleetc' 'coverp'],38986.456816656
+370,['ageph' 'agecar' 'fuelc' 'fleetc' 'powerc'],38988.26549544351
+371,['ageph' 'agecar' 'fuelc' 'sportc' 'coverp'],38987.30717091001
+372,['ageph' 'agecar' 'fuelc' 'sportc' 'powerc'],38988.690077443425
+373,['ageph' 'agecar' 'fuelc' 'coverp' 'powerc'],38980.205553612854
+374,['ageph' 'agecar' 'split' 'fleetc' 'sportc'],38872.556163247944
+375,['ageph' 'agecar' 'split' 'fleetc' 'coverp'],38855.932409338624
+376,['ageph' 'agecar' 'split' 'fleetc' 'powerc'],38869.50039456467
+377,['ageph' 'agecar' 'split' 'sportc' 'coverp'],38855.69012949914
+378,['ageph' 'agecar' 'split' 'sportc' 'powerc'],38868.575365732446
+379,['ageph' 'agecar' 'split' 'coverp' 'powerc'],38851.4425281947
+380,['ageph' 'agecar' 'fleetc' 'sportc' 'coverp'],38998.627778481256
+381,['ageph' 'agecar' 'fleetc' 'sportc' 'powerc'],39001.41105026867
+382,['ageph' 'agecar' 'fleetc' 'coverp' 'powerc'],38994.77875506192
+383,['ageph' 'agecar' 'sportc' 'coverp' 'powerc'],38994.19398225493
+384,['ageph' 'sexp' 'fuelc' 'split' 'fleetc'],38866.45126144628
+385,['ageph' 'sexp' 'fuelc' 'split' 'sportc'],38866.931882705634
+386,['ageph' 'sexp' 'fuelc' 'split' 'coverp'],38844.79297971642
+387,['ageph' 'sexp' 'fuelc' 'split' 'powerc'],38860.889783265055
+388,['ageph' 'sexp' 'fuelc' 'fleetc' 'sportc'],39000.28813034211
+389,['ageph' 'sexp' 'fuelc' 'fleetc' 'coverp'],38988.70165334027
+390,['ageph' 'sexp' 'fuelc' 'fleetc' 'powerc'],38994.074088220455
+391,['ageph' 'sexp' 'fuelc' 'sportc' 'coverp'],38989.80654509454
+392,['ageph' 'sexp' 'fuelc' 'sportc' 'powerc'],38995.24032210663
+393,['ageph' 'sexp' 'fuelc' 'coverp' 'powerc'],38980.64294542311
+394,['ageph' 'sexp' 'split' 'fleetc' 'sportc'],38878.64140223563
+395,['ageph' 'sexp' 'split' 'fleetc' 'coverp'],38859.85649793009
+396,['ageph' 'sexp' 'split' 'fleetc' 'powerc'],38875.318547385796
+397,['ageph' 'sexp' 'split' 'sportc' 'coverp'],38859.705864345284
+398,['ageph' 'sexp' 'split' 'sportc' 'powerc'],38874.78528646136
+399,['ageph' 'sexp' 'split' 'coverp' 'powerc'],38853.66363749731
+400,['ageph' 'sexp' 'fleetc' 'sportc' 'coverp'],39002.83746028604
+401,['ageph' 'sexp' 'fleetc' 'sportc' 'powerc'],39008.0263382754
+402,['ageph' 'sexp' 'fleetc' 'coverp' 'powerc'],38997.580368575465
+403,['ageph' 'sexp' 'sportc' 'coverp' 'powerc'],38997.265316862766
+404,['ageph' 'fuelc' 'split' 'fleetc' 'sportc'],38872.53153915251
+405,['ageph' 'fuelc' 'split' 'fleetc' 'coverp'],38850.650445158855
+406,['ageph' 'fuelc' 'split' 'fleetc' 'powerc'],38868.464698792915
+407,['ageph' 'fuelc' 'split' 'sportc' 'coverp'],38850.616481122895
+408,['ageph' 'fuelc' 'split' 'sportc' 'powerc'],38868.126474080185
+409,['ageph' 'fuelc' 'split' 'coverp' 'powerc'],38842.96403462652
+410,['ageph' 'fuelc' 'fleetc' 'sportc' 'coverp'],38995.08973655024
+411,['ageph' 'fuelc' 'fleetc' 'sportc' 'powerc'],39001.8133548307
+412,['ageph' 'fuelc' 'fleetc' 'coverp' 'powerc'],38988.483015394464
+413,['ageph' 'fuelc' 'sportc' 'coverp' 'powerc'],38988.31994684663
+414,['ageph' 'split' 'fleetc' 'sportc' 'coverp'],38863.42635633223
+415,['ageph' 'split' 'fleetc' 'sportc' 'powerc'],38879.62574942664
+416,['ageph' 'split' 'fleetc' 'coverp' 'powerc'],38858.959122620065
+417,['ageph' 'split' 'sportc' 'coverp' 'powerc'],38857.574856091065
+418,['ageph' 'fleetc' 'sportc' 'coverp' 'powerc'],39001.88130680117
+419,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc'],38857.12977036607
+420,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'sportc'],38857.48225048092
+421,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'coverp'],38839.15475296886
+422,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'powerc'],38849.32224787512
+423,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc'],38990.00035140463
+424,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'coverp'],38981.950150093915
+425,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'powerc'],38981.49402161827
+426,['ageph' 'agecar' 'sexp' 'fuelc' 'sportc' 'coverp'],38983.00472216112
+427,['ageph' 'agecar' 'sexp' 'fuelc' 'sportc' 'powerc'],38982.251460444066
+428,['ageph' 'agecar' 'sexp' 'fuelc' 'coverp' 'powerc'],38973.23647253223
+429,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'sportc'],38870.74176100736
+430,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'coverp'],38853.99220290186
+431,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'powerc'],38866.31356444467
+432,['ageph' 'agecar' 'sexp' 'split' 'sportc' 'coverp'],38853.841231268765
+433,['ageph' 'agecar' 'sexp' 'split' 'sportc' 'powerc'],38865.52958530021
+434,['ageph' 'agecar' 'sexp' 'split' 'coverp' 'powerc'],38848.05825669614
+435,['ageph' 'agecar' 'sexp' 'fleetc' 'sportc' 'coverp'],38996.2970048151
+436,['ageph' 'agecar' 'sexp' 'fleetc' 'sportc' 'powerc'],38997.72579856334
+437,['ageph' 'agecar' 'sexp' 'fleetc' 'coverp' 'powerc'],38990.81159012731
+438,['ageph' 'agecar' 'sexp' 'sportc' 'coverp' 'powerc'],38990.44634097056
+439,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc'],38862.833803778085
+440,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'coverp'],38845.019518228975
+441,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'powerc'],38856.87846368917
+442,['ageph' 'agecar' 'fuelc' 'split' 'sportc' 'coverp'],38844.98052723816
+443,['ageph' 'agecar' 'fuelc' 'split' 'sportc' 'powerc'],38856.27422203921
+444,['ageph' 'agecar' 'fuelc' 'split' 'coverp' 'powerc'],38837.33402192861
+445,['ageph' 'agecar' 'fuelc' 'fleetc' 'sportc' 'coverp'],38988.25377052076
+446,['ageph' 'agecar' 'fuelc' 'fleetc' 'sportc' 'powerc'],38989.00136381528
+447,['ageph' 'agecar' 'fuelc' 'fleetc' 'coverp' 'powerc'],38981.0460614996
+448,['ageph' 'agecar' 'fuelc' 'sportc' 'coverp' 'powerc'],38980.81913385153
+449,['ageph' 'agecar' 'split' 'fleetc' 'sportc' 'coverp'],38857.63872903963
+450,['ageph' 'agecar' 'split' 'fleetc' 'sportc' 'powerc'],38870.1961118927
+451,['ageph' 'agecar' 'split' 'fleetc' 'coverp' 'powerc'],38853.36650266762
+452,['ageph' 'agecar' 'split' 'sportc' 'coverp' 'powerc'],38851.99863609275
+453,['ageph' 'agecar' 'fleetc' 'sportc' 'coverp' 'powerc'],38995.04618429165
+454,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'],38868.418569741545
+455,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp'],38846.70679441226
+456,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'powerc'],38862.23232780299
+457,['ageph' 'sexp' 'fuelc' 'split' 'sportc' 'coverp'],38846.75330053512
+458,['ageph' 'sexp' 'fuelc' 'split' 'sportc' 'powerc'],38862.10383711644
+459,['ageph' 'sexp' 'fuelc' 'split' 'coverp' 'powerc'],38836.43289990572
+460,['ageph' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp'],38990.57572311335
+461,['ageph' 'sexp' 'fuelc' 'fleetc' 'sportc' 'powerc'],38995.070817725835
+462,['ageph' 'sexp' 'fuelc' 'fleetc' 'coverp' 'powerc'],38981.261448380596
+463,['ageph' 'sexp' 'fuelc' 'sportc' 'coverp' 'powerc'],38981.39693139939
+464,['ageph' 'sexp' 'split' 'fleetc' 'sportc' 'coverp'],38861.62087879047
+465,['ageph' 'sexp' 'split' 'fleetc' 'sportc' 'powerc'],38876.20501431625
+466,['ageph' 'sexp' 'split' 'fleetc' 'coverp' 'powerc'],38855.53719889403
+467,['ageph' 'sexp' 'split' 'sportc' 'coverp' 'powerc'],38854.25478447813
+468,['ageph' 'sexp' 'fleetc' 'sportc' 'coverp' 'powerc'],38997.92580441409
+469,['ageph' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38852.56005195367
+470,['ageph' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38869.59111434798
+471,['ageph' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38844.87851692943
+472,['ageph' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38843.84433362948
+473,['ageph' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38989.12465077033
+474,['ageph' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38859.49083945999
+475,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc'],38859.09460327221
+476,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp'],38841.080232624234
+477,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'powerc'],38850.81922294153
+478,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'sportc' 'coverp'],38841.11770975039
+479,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'sportc' 'powerc'],38850.41413038969
+480,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'coverp' 'powerc'],38830.87088692853
+481,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp'],38983.83606190309
+482,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc' 'powerc'],38982.360927205926
+483,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'coverp' 'powerc'],38973.918494492864
+484,['ageph' 'agecar' 'sexp' 'fuelc' 'sportc' 'coverp' 'powerc'],38973.98436850038
+485,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'sportc' 'coverp'],38855.76782299012
+486,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'sportc' 'powerc'],38867.07315802729
+487,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'coverp' 'powerc'],38849.94699073186
+488,['ageph' 'agecar' 'sexp' 'split' 'sportc' 'coverp' 'powerc'],38848.68051159483
+489,['ageph' 'agecar' 'sexp' 'fleetc' 'sportc' 'coverp' 'powerc'],38991.17045001394
+490,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38846.93305237958
+491,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38857.87811004778
+492,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38839.259477120686
+493,['ageph' 'agecar' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38838.219859150544
+494,['ageph' 'agecar' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38981.67978966034
+495,['ageph' 'agecar' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38853.92609786131
+496,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38848.66814892147
+497,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38863.45183492234
+498,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38838.299519896726
+499,['ageph' 'sexp' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38837.416707202116
+500,['ageph' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38982.0391209225
+501,['ageph' 'sexp' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38856.133500524855
+502,['ageph' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38845.76236812417
+503,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'],38843.044080328684
+504,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'powerc'],38851.91750327923
+505,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'coverp' 'powerc'],38832.752098000565
+506,['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'sportc' 'coverp' 'powerc'],38831.86042732332
+507,['ageph' 'agecar' 'sexp' 'fuelc' 'fleetc' 'sportc' 'coverp' 'powerc'],38974.68833158181
+508,['ageph' 'agecar' 'sexp' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38850.57369772435
+509,['ageph' 'agecar' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38840.14838181596
+510,['ageph' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp' 'powerc'],38839.287980449844
+511,"['ageph' 'agecar' 'sexp' 'fuelc' 'split' 'fleetc' 'sportc' 'coverp'
+ 'powerc']",38833.74572656265
